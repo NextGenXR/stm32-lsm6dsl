@@ -26,8 +26,8 @@ extern "C" {
 #endif
   
 /* Includes ------------------------------------------------------------------*/
-#include "../Common/accelero.h"
-#include "../Common/gyro.h"  
+#include <stm32l475e_iot01_accelero.h
+#include <stm32l475e_iot01_gyro.h>
 
 /** @addtogroup BSP
   * @{
